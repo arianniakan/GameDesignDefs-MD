@@ -47,8 +47,7 @@ two players.
 
 Solving Sequential Games Using Backward Induction:
 
-![](.//media/image1.png){width="3.65625in"
-height="2.102777777777778in"}In the section below is a simple sequential
+![](.//media/image1.png)In the section below is a simple sequential
 game between two players. The labels with Player 1 and Player 2 within
 them are the information sets for players one and two, respectively. The
 numbers in the parentheses at the bottom of the tree are the payoffs at
@@ -56,7 +55,7 @@ each respective point. The game is also sequential, so Player 1 makes
 the first decision(left or right) and Player 2 makes its decision after
 Player 1(up or down).
 
-![](.//media/image2.png){width="3.6875in" height="2.3125in"}Backward
+![](.//media/image2.png)Backward
 induction, like all game theory, uses the assumptions of rationality and
 maximization, meaning that Player 2 will maximize his payoff in any
 given situation. At either information set, we have two choices, four in
@@ -64,15 +63,13 @@ all. By eliminating the choices that Player 2 will not choose, we can
 narrow down our tree. In this way, we will bold the lines that maximize
 the player\'s payoff at the given information set.
 
-![](.//media/image3.png){width="3.6770833333333335in"
-height="2.109722222222222in"}After this reduction, Player 1 can maximize
+![](.//media/image3.png)After this reduction, Player 1 can maximize
 its payoffs now that Player 2\'s choices are made known. The result is
 an equilibrium found by backward induction of Player 1 choosing
 \"right\" and Player 2 choosing \"up.\" Below is the solution to the
 game with the equilibrium bold path.
 
-![](.//media/image4.png){width="3.6458333333333335in"
-height="2.4166666666666665in"}
+![](.//media/image4.png)
 
 For example, one could easily set up a game similar to the one above
 using companies as the players. This game could include product release
