@@ -21,9 +21,7 @@ in the study of game theory:
 -   **Strategy**: A complete plan of action a player devise, given the
     set of circumstances that might arise within the game.
 
--   **Payoff**: The payout a player receives from arriving at a
-    particular outcome. The payout can be in any quantifiable form, from
-    dollars to utility.
+-   **Payoff**: A payoff is the outcome of a game that depends of the selected strategies of the players. 
 
 -   **Information set**: The information available at a given point in
     the game. The term "information set" is most usually applied when
